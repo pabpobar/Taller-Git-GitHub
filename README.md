@@ -8,3 +8,4 @@
 * El documento debe tener por nombre: **Su nombre completo y el NRC de esta asignatura**
 * El mensaje del commit debe indicar **su nombre completo**, **NRC de esta asignatura** y cualquier información adicional que deseen agregar
 * Suba esta rama y su contenido al repo cental (este proyecto)
+* Puede repetir el envío, pero sólo se considerará la **última versión**
