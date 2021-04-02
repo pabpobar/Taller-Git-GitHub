@@ -16,3 +16,5 @@
 * Al recibir la invitación, **deben aceptarla** y luego de eso podrán subir la rama
 * **No está permitido realizar merge** de las ramas que suban a main
 * Sólo se realizará cuando el administrador del proyecto valide y acepte las peticiones
+* Creen issues para **solicitar invitación a colaborar**, hay una etiqueta "colaborar". **No olviden indicar su usuario**
+* **Cerraré el issue** tan pronto como envíe la invitación a colaborar
