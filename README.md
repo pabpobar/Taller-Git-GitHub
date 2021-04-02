@@ -9,3 +9,8 @@
 * El mensaje del commit debe indicar **su nombre completo**, **NRC de esta asignatura** y cualquier información adicional que deseen agregar
 * Suba esta rama y su contenido al repo cental (este proyecto)
 * Puede repetir el envío, pero sólo se considerará la **última versión**
+
+
+## Observación
+* Deben **enviarme su usuario GitHub** para enviarles invitación a colaborar 
+* Al recibir la invitación, **deben aceptarla** y luego de eso podrán subir la rama
