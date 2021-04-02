@@ -67,3 +67,22 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 ```
+Como hay cambios dentro de la rama, debemos agregarlos y commitearlos :eyes:
+- - -
+### 6. Agregando y commiteando los cambios :eye: :lips: :eye:
+**Input**
+```bash
+➜  Taller-Git-GitHub git:(FranciscoCordero-11630) ✗ gst
+
+```
+**Output**
+```bash
+➜  Taller-Git-GitHub git:(FranciscoCordero-11630) ✗ git add FranciscoAntonioCorderoSoza-11630.md 
+➜  Taller-Git-GitHub git:(FranciscoCordero-11630) ✗ git commit -m "Francisco Cordero, 11630."
+[FranciscoCordero-11630 8a2c0b1] Francisco Cordero, 11630.
+ 1 file changed, 69 insertions(+)
+ create mode 100644 FranciscoAntonioCorderoSoza-11630.md
+
+```
+
+
