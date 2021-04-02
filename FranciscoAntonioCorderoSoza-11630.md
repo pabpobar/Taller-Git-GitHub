@@ -1,6 +1,7 @@
 # Taller de Git/ Github :rocket:
 ## Datos del alumno :clipboard:
 **Nombre**: Francisco Cordero
+**NRC**: 11630
 **Profesor**: Pablo Poblete
 ## Comandos utilizados :computer:
 #### 1. Clonando el repositorio 
@@ -84,5 +85,11 @@ Como hay cambios dentro de la rama, debemos agregarlos y commitearlos :eyes:
  create mode 100644 FranciscoAntonioCorderoSoza-11630.md
 
 ```
+- - -
+### 7. Pusheamos los cambios y listo, podemos mandar PR! :rocket:
+**Input**
+```bash
+git push origin FranciscoCordero-11630
+```
 
-
+# Thanks for read! :smile:
