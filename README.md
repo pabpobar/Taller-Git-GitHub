@@ -14,5 +14,5 @@
 ## Observación
 * Deben **enviarme su usuario GitHub** para enviarles invitación a colaborar 
 * Al recibir la invitación, **deben aceptarla** y luego de eso podrán subir la rama
-* **No está permitido realizar merge a main** de las ramas que suban
+* **No está permitido realizar merge** de las ramas que suban a main
 * Sólo se realizará cuando el administrador del proyecto valide y acepte las peticiones
